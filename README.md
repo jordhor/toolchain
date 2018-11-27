@@ -8,7 +8,7 @@ This is a guide
 
 ## npm
 
-### How to update npm to latest version in Windows
+### Update npm to latest version in Windows
 
 First run **PowerShell** as Administrator.
 
